@@ -1,0 +1,1494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rampant alderman, or, News from the exchange a farce.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57782</idno>
+            <idno type="STC">Wing R212</idno>
+            <idno type="STC">ESTC R9027</idno>
+            <idno type="EEBO-CITATION">12383309</idno>
+            <idno type="OCLC">ocm 12383309</idno>
+            <idno type="VID">60794</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60794)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 224:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rampant alderman, or, News from the exchange a farce.</title>
+                  <author>Marmion, Shackerley, 1603-1639. Fine companion.</author>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Taken from Marmion's "A fine companion" and other plays.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60794:1"/>
+            <p>THE RAMPANT ALDERMAN, OR NEWS FROM THE EXCHANGE, A FARCE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:60794:2"/>
+            <pb n="1" facs="tcp:60794:2"/>
+            <head>THE RAMPANT ALDERMAN.</head>
+            <div n="1" type="act_and_scene">
+               <head>ACT. I. SCENE. I.</head>
+               <stage>
+                  <hi>Enter</hi> Rover <hi>and</hi> Wilding <hi>ſeverally.</hi>
+               </stage>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>DEar <hi>Jack,</hi> I am glad to ſee thee with all my heart 'ifaith. How long haſt thou been in Town?</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Too long to my ſorrow, <hi>Ned,</hi> except thy charming Siſter <hi>Cordelia</hi> were kinder, the God of Love and I are ſtill at Sword and Dagger about her. And I find too late, like a Fool as I am, in ſpite of my Blood he will be too hard for me.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Oh there's no Fence againſt a Flail, <hi>Jack.</hi> A pair of Black Eyes thou know'ſt, wound deeper then a Caſe of Piſtols; but chear up Man, thou haſt me on thy ſide, I know thou lov'ſt her Honourably.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Elſe let me never get the Heaven I ſigh for. Sir, I am a man of Honour, and hate a baſe Action, as much as I do Cowardiſe.</p>
+               </sp>
+               <pb n="2" facs="tcp:60794:3"/>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>I believe thee 'faith: And to be ſerious with thee, 'gad I had rather Pimp for thee than any Man in Chriſtendom, that's the truth on't.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Pimp for me!</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Ay, <hi>Jack,</hi> hold a Door neatly, Cough, and cry Hem, if any body come; thou underſtand'ſt me.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Sir, I dare not underſtand ye, nor would I hear this from any other Man—'tis well you are her Brother.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Come, prithee be not Angry, thou art a brave Fellow, and I love thee. And by this Hilt thou ſhalt have a Touch with my Siſter— in ſpite of the Muſty Alderman, or e're a Lowſie Pluſh Jacket in <hi>Chri<g ref="char:EOLhyphen"/>ſtendom.</hi> I hope thou canſt diſpence with a touch with her in the Bed of Honour, <hi>Jack.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Ay Boy, there indeed a Touch with her would make a Man Immortal: But what Alderman is this thou ſpeak'ſt of?</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Why, Sir, a <hi>Jack-o-lent,</hi> with a Jack Chain about him: An old drivling, fribling, fumbling Fobus, that makes Love to her. And is ſo damnably Rich, and withal ſo confoundedly Lecherous, that he thinks 'tis no more but up and ride with her.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>The Divel choak him with the Furs of his own Gown. What's to be done Friend?</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>That's as Time ſhall try. See here comes my Siſter and my Couſin <hi>Julia,</hi> whom I'll take aſide to give you opportunity: Go put up briskly to her, d'ye hear?</p>
+                  <stage>
+                     <hi>Takes</hi> Julia <hi>aſide.</hi>
+                  </stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Cordelia <hi>and</hi> Julia.</stage>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Madam, tho the Charms of your Beauty are not to be reſiſted by any thing compos'd of Fleſh
+<pb n="3" facs="tcp:60794:3"/>and Blood as I am, yet a little good Nature too, would add another Charm greater than all, and give me hopes of Life, that am deſpairing by your Cruelty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>If Women, Sir, were always to be won with Words, the grand Deceivers of our Sex, would have a true occaſion to condemn our Eaſineſs; but I'm reſolv'd to turn the Scale, and prove, that once there was a Woman gain'd by Merit.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Ah, let me know in what I'm deficient, and I'll reform my ſelf— but I ſee plainly you have made another Choice, and I am damn'd to all the Hell of Rigour in your Frowns. Oh cruel Sex! too Fair, and too Ingrateful!</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>What a Devil's the Matter now? Why how now <hi>Ned,</hi> what watring thy Plants already. 'dsHeart, they make Love juſt like Cats, they are always either Howling, or Scratching one another.</p>
+               </sp>
+               <sp>
+                  <speaker>Julia.</speaker>
+                  <p>They come the nearer then to the nature of the Buſineſs; for Love in its beſt quality, is but a kind of Caterwauling, the He Cat follows the She into the Parlour, then preſently the She runs after the He into the Garret, where there is ſuch an eternal Mew betwixt 'em, juſt like that Gentleman's making Love for all the World.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Does my Integrity and conſtant Paſſion deſerve to be thus ſlighted?</p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>When you have work'd upon my good Opinion a proof of your Integrity, you may be bet<g ref="char:EOLhyphen"/>ter us'd; till when, let me adviſe you to leave An<g ref="char:EOLhyphen"/>gling, Sir, the Fiſh will not be Caught, I can aſſure ye.</p>
+                  <p>Our Sex by Profit often is Betray'd,</p>
+                  <p>But Worth ſhall win me, or I'll die a Maid.</p>
+               </sp>
+               <stage>Exit.</stage>
+               <sp>
+                  <speaker>Julia.</speaker>
+                  <p>Fare ye well, Sir, take care ſhe does not ſee the Onion you have wrapt up in your Handkerchief,
+<pb n="4" facs="tcp:60794:4"/>for you have Tears at command, I ſee. 'And to my knowledg, a Man can no more weep without an Onion, than he can make Love without Lying; they are both abſolutely neceſſary. And ſo ſweet Sir, your humble Servant. Ha, ha, ha.</p>
+               </sp>
+               <stage>Exit laughing.</stage>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Ah, the Devil fleer ye; 'dsheart this Jill<g ref="char:EOLhyphen"/>flirt, gigling young Quean, will jeer me to Death, I ſhall never be able to look her in the face agen.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Ah, Pox on't, you muſt, you muſt: What a Lover and want Confidence, ſuch a one would be a ſtrange Monſter indeed. But come prithee, let's go and contrive how to Supplant this Old Fuſty Alder<g ref="char:EOLhyphen"/>man; for if he intends to Cut up my Siſter like a young Virgin Pullet, by this Light, I'll cut him like an Old Capon; he ſhall be as bare as the Eunuchs in the Grand Signior's <hi>Seraglio.</hi> I'll ſee what the Alder<g ref="char:EOLhyphen"/>man has in his Purſe for once.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>I think he may ſpare the Jewels in it, for any good his Worſhip will do with 'em. But prithee <hi>Jack,</hi> Is not this he that was always voting Miſchief againſt the King, and ſpeaking Treaſon in the Com<g ref="char:EOLhyphen"/>mon Council?</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>The very ſame, the moſt Notorious Whig in all the Fraternity.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>There's ſome hopes then he may be hang'd in time, that the Fraternity may be rid of him.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>No doubt, but Fate has ſome ſuch Bleſſing in ſtore for him; he keeps company with two Sham Elders, which he ſtiles by the Title of Doctors, for<g ref="char:EOLhyphen"/>ſooth, the one ſqueaks Sedition to him in the Coffee-Houſe, and the other Cants it in the Conventicle.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Ay, I hope I ſhall ſee 'em Cant it at the Gallows too; prithee do, I know 'em <hi>Jack.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Oh, without doubt, the one is Doctor Oy<g ref="char:EOLhyphen"/>lyfiſt,
+<pb n="5" facs="tcp:60794:4"/>the ſneaking Non-Con. of <hi>Spittle-Fields,</hi> and the other of Famous Memory, is—</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Doctor <hi>Oats.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Ah, well gueſs'd my Noble Heart, 'gad thou art right.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Why then, farewel Mr. Alderman, if that Noble Doctor keeps ye Company, the Gibbet is like to feel your weight, I'm ſure.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>'dsHeart, here he comes, and Company with him: 'Tis high Change time, and the place will fill preſently, therefore let's be gone, for I would not have him ſee us.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>Nor I neither, I am not ſo fond of his Company.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Alderman <hi>and</hi> Booby.</stage>
+               <sp>
+                  <speaker>Alderman.</speaker>
+                  <p>Is thy name <hi>Booby?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Yes, and't pleaſe your Worſhip. I'm a true Booby by Father and Mother.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>What Country-Booby are ye?</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>I'm a <hi>Buckinghamſhire</hi> Booby, and pleaſe ye, and of a very ancient Family.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>How ſo?</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Why my Father was a Miller of <hi>Maidenhead,</hi> and he having a great occaſion for a Wife, Married one <hi>Katharine Crack</hi> of <hi>Carnarvan;</hi> ſo that betwixt the <hi>Boobies</hi> of <hi>Buckingham,</hi> and the <hi>Cracks</hi> of <hi>Carnarvan,</hi> I am as arrant a Booby as ever you ſaw.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Very well, Friend, if thou art Induſtrious, thou mayſt come to great Preferment; 'tis many a Boobies caſe as Times go, for 'tis a very lucky Name, I promiſe ye, and comes near the <hi>Baboons,</hi> a very rich Family of our Party here in the City.</p>
+               </sp>
+               <pb n="6" facs="tcp:60794:5"/>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>I have heard great talk of the City Baboons indeed: Is your Worſhip any kin to 'em?</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Troth Friend, there is ſome Relation be<g ref="char:EOLhyphen"/>twixt us. Sir <hi>Bartlemy Baboon</hi> married Mrs. <hi>Clawbut<g ref="char:EOLhyphen"/>tock,</hi> of <hi>Highgate,</hi> and had Iſſue by her two <hi>Baboons.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>And never a Monky.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>But then comes in Sir <hi>Timothy Thrum,</hi> my Great Grandfather, and he Claw'd up the Widow <hi>Clawbuttock,</hi> and got by her <hi>Toby Thrum,</hi> and <hi>Thomas Thrum, Talbot Thrum,</hi> and <hi>Tomaſine Thrum,</hi> and my ſelf, a ſecond <hi>Timothy Thrum,</hi> who were all Married to rich Fortunes. And—</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>And ſo they Thrum'd one another to the end of the Chapter.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>But no more of this. I find thee a very fit Fellow for my Service, and therefore do Entertain thee. Thou canſt Lye for me to a Lady that I am in Love with, canſt not?</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Yes, and lie with her too, if you would have me.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>How, Sirrah, lie with her!</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>With her Chambermaid, I mean, and't pleaſe your Worſhip: I have a great Impediment in my Speech.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Alas, alas, well, prithee obſerve me, there is a Rich young Lady that's in Law, and juſt come to Town to have her Buſineſs done.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>There are a great many, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>What, Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Young Ladies, that come to Town to have their Buſineſs done.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Go too, you Wag, mark me what I ſay, This young Lady is extreamly troubled.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>With the Griping of the Guts, Sir.</p>
+               </sp>
+               <pb n="7" facs="tcp:60794:5"/>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Guts, Sirrah: No, with Impertinent Sui<g ref="char:EOLhyphen"/>tors, Sirrah, which I intend to deliver her from, and to that end have wrigled my ſelf into her Acquain<g ref="char:EOLhyphen"/>tance.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Your Worſhip does very well to wrigle your ſelf into any part of her.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Well ſaid, i'faith, witty <hi>Booby,</hi> there's a <hi>Brumigham</hi> Groat for that ſaying, to incourage thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>A Pox on your Bounty: What a rare <hi>Bru<g ref="char:EOLhyphen"/>migham</hi> Maſter ſhall I have?</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Beatrice.</stage>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Here comes my Daughter, your firſt buſi<g ref="char:EOLhyphen"/>neſs muſt be to hand her Home, and keep all Flutter<g ref="char:EOLhyphen"/>ing Suitors from her; eſpecially a Huffing <hi>Frenchman,</hi> that's juſt come from the Siege of <hi>Luxemburg.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>And intends to blow up her Mine, does he Maſter?</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>He does ſo <hi>Booby,</hi> ingenious <hi>Booby,</hi> he does ſo. There's ſomething more for thee, for that ſaying.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>A Queen <hi>Elizabeth</hi> Threepence, juſt as thin as his Conſcience. Why, I am made for ever, I ſhall roul in Money at this rate.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Go Daughter, go Home with him: And let me have no more Parleys with your <hi>French</hi> Kick<g ref="char:EOLhyphen"/>ſhaw, d'ye hear?</p>
+               </sp>
+               <sp>
+                  <speaker>Beatrice.</speaker>
+                  <p>My Duty ſhall be ſhown in my Obedi<g ref="char:EOLhyphen"/>ence, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>And in the Evening I'll prepare <hi>Loviſſit,</hi> my young Miſtris, 'tis ſuch a pretty little twinkling Rogue, ſuch a buckſome Shape, and ſuch a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ound plump Buttock, that I am almoſt Mad for her. I Dream of her a Nights, and Sigh for her a Days;
+<pb n="8" facs="tcp:60794:6"/>and when I meet with her at Church, cannot mind one word of the Sermon for ſtaring at her. Well, I muſt have a Bout with her, come what will on't.</p>
+                  <lg>
+                     <l>And all my Brethren then ſhall find in me,</l>
+                     <l>There is ſome Mettle left in Seventy Three.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="2" type="act">
+               <head>ACT. II.</head>
+               <stage>
+                  <hi>Enter</hi> La Bounce.</stage>
+               <sp>
+                  <speaker>La Bounce.</speaker>
+                  <p>VAt a Diable is de matra, dat me can finda no Perſon in dis Houſe, what hoa, where is dis Rich Alderman, and de pret ſweet young Lady his Daughter, dat is to be my Wife. Mounſieur, <hi>Jack, Toby,</hi> Man, Womans, or Shild, where are you all?</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Booby <hi>with a Quarter-ſtaff.</hi>
+               </stage>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>What the Devil have we got here, a French Flap-Dragon, juſt ſpit out of Monſieur <hi>Crequy</hi>'s Mouth, and come to Invade us in our own Quarters. I'll Quarter him. I'll be too nimble for him i'faith. I'll quarter him with my Quarter-ſtaff here if he be not Civil. How now, Sir, who are you, hah?</p>
+               </sp>
+               <sp>
+                  <speaker>La Bounce.</speaker>
+                  <p>Who am I, Zoon, look in my Face, vat a Diable can you not ſee?</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Yes, I can ſee, and you ſhall feel too, if you han't more Manners; I'll tell you that Monſieur Baſi<g ref="char:EOLhyphen"/>micue.</p>
+               </sp>
+               <sp>
+                  <speaker>La Bounce.</speaker>
+                  <p>Scoundrel Valet, keep your diſtance, and reverence my Profeſſion, I am a Souldier.</p>
+               </sp>
+               <pb n="9" facs="tcp:60794:6"/>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>And a very Impudent one, as ever I ſaw.</p>
+               </sp>
+               <sp>
+                  <speaker>La Bounce.</speaker>
+                  <p>I am juſt come from de Seige of <hi>Luxem<g ref="char:EOLhyphen"/>burg,</hi> my Name is Capitain <hi>La Bounce.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>
+                     <hi>La Bounce,</hi> a Plague on your Family, there's many a poor <hi>Spaniard</hi> the worſe for 'em to my know<g ref="char:EOLhyphen"/>ledg. But what make you here good Captain <hi>Bounce,</hi> hah?</p>
+               </sp>
+               <sp>
+                  <speaker>La Bounce.</speaker>
+                  <p>I come to ſpeak vid de Riſh Alderman, and de fair Lady his Daughter; I intend to Marry her and den lie vid her like a Souldier, and a Gentleman.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>A Gentleman. And is that like a Gentle<g ref="char:EOLhyphen"/>man, to come into an Aldermans Houſe without Knocking? D'ye hear <hi>Madg</hi> in the Kitchin there, look about your Diſhes and Plates, and ſee if the Gentle<g ref="char:EOLhyphen"/>man has Stole nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>La Bounce.</speaker>
+                  <p>Morblieu, me Steal: Poltroon ſuch an<g ref="char:EOLhyphen"/>other word, me will ſcoure my Rapier in thy ſmall Gut.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Hark'e, Captain <hi>Bounce,</hi> if you put your French Tricks upon me, I ſhall Bounce your Noddle with my Quarter-ſtaff here, for I am a Gentleman too, and my Name is <hi>Booby.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>La Bounce.</speaker>
+                  <p>De <hi>Boobies</hi> are de baſe beggerly Famillee.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>You lye like a Potgun as you are, and here's my Voucher. <stage>Holds up his Quarter ſtaff.</stage> And tho I am no Souldier, I will Thraſh a Souldier if you pro<g ref="char:EOLhyphen"/>voke me, <hi>Monſieur la Bougre je parle mieux Francois que vous.</hi> There's <hi>French</hi> for ye, ye Son of a Whore.</p>
+               </sp>
+               <sp>
+                  <speaker>La Bounce.</speaker>
+                  <p>O Mordieu, ſit grand Confidance.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>What a Pox d'ye think we have no Breed<g ref="char:EOLhyphen"/>ing amongſt us, ha? You ſhall find we have, and Cou<g ref="char:EOLhyphen"/>rage too. And ſo have at you, good Monſieur Snuff-Box.</p>
+                  <stage>Fight here.</stage>
+               </sp>
+               <pb n="10" facs="tcp:60794:7"/>
+               <stage>
+                  <hi>Enter</hi> Rover, Cordelia, Beatrice, Wilding <hi>and</hi> Julia.</stage>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>How now, what's the matter here?</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>No great matter. I was only Cracking French Crowns into Engliſh Groats: Have ye enough yet, good Captain <hi>Bounce?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Beatrice.</speaker>
+                  <p>This is the French Fantaſtick Officer, that pretends to have authority to be my Husband.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover</speaker>
+                  <p>Does he ſo? I ſhall pretend to cut his Throat then.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>And I think I ſhall have a blow at his Skull, if he intend to breed his Mungrel Off-ſpring amongſt us.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Ay, you may have blows at it if you will, but to hurt it is impoſſible; his Skull is harder than my Quarter-ſtaff.</p>
+               </sp>
+               <sp>
+                  <speaker>La Bounce.</speaker>
+                  <p>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ime at the Siege of <hi>Mons,</hi> me vas two time ſhot troo de Head with a Cannon Bullet.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Well ſaid Monſieur 'ifaith, that was a French Swinger.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Oh damn'd lying Rogue! ſhot through the Head with a Cannon Bullet.</p>
+               </sp>
+               <sp>
+                  <speaker>Julia.</speaker>
+                  <p>Peace <hi>Booby,</hi> let's hear him.</p>
+               </sp>
+               <sp>
+                  <speaker>La Bounce.</speaker>
+                  <p>I vas blown up in de Mine at <hi>Luxemburg,</hi> and vas one of the formoſt of thoſe dat took de laſt Baſtion. I have bin in ten Storm at Sea, ſeen both the Gulf of <hi>Venice</hi> and <hi>Florida,</hi> and de very Navel of de World, you Scoundrel, and ſhall I be effronted thus? No, dere will comes times for Revenge, I ſay dere will, and ſo Serviture Meſſieur, ſerviture.—</p>
+                  <stage>Exit huffing.</stage>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Monſieur votre tres humble. There's more <hi>French</hi> for ye, ye Son of a Whore you.</p>
+               </sp>
+               <pb n="11" facs="tcp:60794:7"/>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>'Tis ſuch a Conceited Aſs, there's no endu<g ref="char:EOLhyphen"/>ring him.</p>
+               </sp>
+               <sp>
+                  <speaker>Beatrice.</speaker>
+                  <p>Yet I am ſo plagu'd with his Impertinent Addreſſes, that I am almoſt weary of my Life; there's never a day but I am fore'd to ſpend two Hours in hearing his French Giberiſh Courtſhip.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>To as much effect, I hope, as his French Va<g ref="char:EOLhyphen"/>lour was at <hi>Luxemburg.</hi> No, deareſt Madam, I hope you never will forget my conſtant Services.</p>
+               </sp>
+               <sp>
+                  <speaker>Beatrice.</speaker>
+                  <p>Never whil'ſt they are conſtant Services.</p>
+               </sp>
+               <sp>
+                  <speaker>Julia.</speaker>
+                  <p>Which never laſt above a Month and a Day. A Man of the Town puts off his Paſſion juſt like an Old Suit; he muſt have a New one every Month, or elſe he grows Slovenly.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding.</speaker>
+                  <p>But mine to fair <hi>Cordelia</hi> laſts for ever. Oh that I had the grace to be believ'd, or that my Love could enter at thy Ears, and tell her heart how truly I adore her.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Come <hi>Ned,</hi> thou ſhalt find ſhe does reſent thy Fidelity. I catch'd her napping this Morning, Boy, and have a fine Story to tell thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>Nay, Brother, what d'ye mean!</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Nothing but Honeſty, Siſter. But I tell thee once agen, <hi>Jack</hi> ſhall have a Touch with thee, and there's an end.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Here's Mr. Alderman juſt now hobling in, by this Light; therefore ſhift for your ſelves Gallants.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Now, Siſter, do but Nigle him finely, and let me alone to carry on the reſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Beatrice.</speaker>
+                  <p>Pray, dear ſweet Madam, make a Fool of my Father, for I hate to ſee him Doat at theſe Years.</p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>If he has no more Wit than he has Ability in Love Matters, he ſhall find I am Match enough for him, if he were Forty Years younger.</p>
+               </sp>
+               <pb n="12" facs="tcp:60794:8"/>
+               <sp>
+                  <speaker>Beatrice.</speaker>
+                  <p>Speak ſoftly, here he comes.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Alderman.</stage>
+               <sp>
+                  <speaker>Aderm.</speaker>
+                  <p>Where are ye <hi>Booby?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Here, Sir, here.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Go to Mr. <hi>Rump</hi> the Poulterer, and bid him ſend me in a brace of Partridges, tell him, I intend to make a Collation to Night.</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>I muſt bring ne'r a fat Capon and Sawſages with me, muſt I Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>An Extravagant Rogue. A Capon, what to do Rogue? what to do?</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>The Lady has brought her Coachman with her, we muſt have ſomething for him, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Why bring a Capon then, and be Poxt t'ye, this Rogue will undo me with Expences. And d'ye hear, Sirrah, when you are there, ſtep to Mr. <hi>Cods<g ref="char:EOLhyphen"/>head</hi> the Fiſhmonger, and bring a Cock-Lobſter: Do kou know a Cock-Lobſter, Sirrah?</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Ay, Sir, as well as I know you to be a Cock-Alderman.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>What an arch Dog 'tis, a Cock Alderman! Get ye gone Sirrah; the Rogue will make me Laugh forty times a Day.— 'Odſo, here's the
+<stage>Exit Booby.</stage> Lady, and now me-thinks I am very Cockiſh indeed. Madam, your humble Servant, I made bold to ſend my Daughter to Invite ye to a Diſh of Meat, and the Fiddles.</p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>And you ſee I have obeyed your Summons, Mr. Alderman.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Bleſſing on thy Heart, and we'll be as Mer<g ref="char:EOLhyphen"/>ry as the Beggars 'ifaith, and thou ſhalt ſee me Dance a Jigg preſently. 'Odſo, me-thinks I could Cut a Ca<g ref="char:EOLhyphen"/>per
+<pb n="13" facs="tcp:60794:8" rendition="simple:additions"/>up to thy Middle, I am ſo Active; Leap, Vault, do the Sommerſet like a Boy of Eighteen, and Jump over a Stick like a Spaniel.</p>
+               </sp>
+               <sp>
+                  <speaker>Cordel.</speaker>
+                  <p>But not for the King of <hi>England?</hi> I hope Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>The King of <hi>England,</hi> no not I: I'de not Jump over a Straw for him. For a certain Duke, that ſhall be Nameleſs, I could Jump, tho the Joynt-Stool were as high as the Exchange.—</p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>And you broke your Neck on t'other ſide. What a wonderful thing is Zeal for the good Old Cauſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>I ſee the Witty Baggage knows I am a Whig. Come prithee Sweet Heart, ſit down, and let's leave the good Old Cauſe to its ſelf, and Tope about a Glaſs of good old Sack: <hi>Beatrice,</hi> here take my Keys, and reach me the Bottle on your Left-hand, next the Door, you'll find a—
+<stage>Gives her the Keys.</stage> written Paper on it,— go bring it hither quickly.</p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>You are wonderful Brisk to Day, Mr. Al<g ref="char:EOLhyphen"/>derman.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>What ſhould ail me, Sweet Heart? what ſhould ail me? I am not ſo Old yet, but I can pay a Bill at ſight, as well as one and Twenty, Girl. Think of that, Sweet-heart, think of that.</p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>Ay, but there's a witty Saying, Sir,
+<q>
+                        <l>That an Old Man of Sixty, full of Vaunting and Brags,</l>
+                        <l>Often thinks to pay Debts, without Money in's Bags.</l>
+                     </q>
+Think you of that, Mr. Alderman.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>A plaguey cunning Quean, 'odzooks, I was never ſo Nonplus'd in my Life. But I muſt not ſeem to be concern'd,—
+<stage>aſide.</stage> Ah would we were in Bed together, to try how well I could Pay. Come, <hi>Beatrice,</hi> where are ye?</p>
+               </sp>
+               <sp>
+                  <speaker>Beatrice.</speaker>
+                  <p>Here it is, Sir.
+<stage>
+                        <hi>Enter</hi> Beatrice <hi>with a Bottle.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <pb n="14" facs="tcp:60794:9"/>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Let me ſee.— The Liquor of Generation.
+<stage>reads the Note.</stage> Ay, this is it. Here's that will make the Blood dance, 'ifaith.— Go, <hi>Beatrice,</hi> go and take care Supper be well Ordered, and let the Fiddlers be ready, d'ye hear?</p>
+               </sp>
+               <sp>
+                  <speaker>Beatrice.</speaker>
+                  <p>Yes, Sir,— I know this is only to get me out of the way: But I'll ſit him, for I'll place Mr. <hi>Ro<g ref="char:EOLhyphen"/>ver</hi> her Brother, and the reſt, where they ſhall hear all.</p>
+               </sp>
+               <stage>Exit Beatrice.</stage>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Fair Lady, come faith, here's a Health to your Maidenhead.</p>
+               </sp>
+               <stage>Drinks.</stage>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>Oh, fie Sir!</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Nay, nay, this over Modeſty ſpoils all, it does 'ifaith.— Come, it ſhall be Drunk.— Nay, faith, we'll have a Health to my performance too, preſently.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover Peeping.</speaker>
+                  <p>Will you ſo, Sir,— Very well in<g ref="char:EOLhyphen"/>deed. 'sHeart, how the old Goat tickles himſelf.
+<stage>aſide.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>Indeed, Mr. Alderman, this Diſcourſe is too looſe: Pray conſider who I am.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Who thou art? Why thou art to be mine, Sweet heart.</p>
+               </sp>
+               <sp>
+                  <speaker>Wilding Peeping.</speaker>
+                  <p>I had rather you were Hang'd as high as the Monument, Sweet-heart.</p>
+               </sp>
+               <stage>aſide.</stage>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>I could never have imagin'd Heaven had ſo great a Bleſſing in ſtore for me, to lie ſnug upon thoſe delieate Breaſts, to be embraced in thoſe Arms, Ah.—</p>
+               </sp>
+               <sp>
+                  <speaker>Julia Peeping.</speaker>
+                  <p>Ah, you'll have another Tone when you are Guelt, good Alderman Stallion.</p>
+               </sp>
+               <stage>aſide.</stage>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>Fie, fie, indeed I muſt not endure this. If your Love is honourable, pray keep your diſtance?</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Prithee excuſe me. Faith, I am ſo tran<g ref="char:EOLhyphen"/>ſported, I know not what I do. Then what a Neck is there for a Row of Pearls to glitter on,—Ah!</p>
+               </sp>
+               <pb n="15" facs="tcp:60794:9"/>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Ah, now he comes to't.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>And this pretty little, little Foot, what an incomparable provoking ſhow it would make with a pair of Diamond Buckles on it: Zooks I muſt kiſs it, I cannot forbear,— I muſt kiſs it 'ifaith.
+<stage>Falls down, and ſtrives to kiſs her Foot.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>For ſhame, Mr. Alderman, this is beyond enduring.</p>
+               </sp>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>Now does the old Rogue, I warrant, ſtink like a Filchard.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>A Suit of Point for that Head, and Rings for that pretty ſoft Hand, whoſe Touch or Graſp, would raiſe a Man to Life, if he had been dead a Week, ah!</p>
+               </sp>
+               <sp>
+                  <speaker>Julia.</speaker>
+                  <p>Ah,— brave Alderman Rampant!</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Well, I am ſtrangely provok'd, I know not what to do ſhe has ſo provok'd me,— ah Rogue.</p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>Either be more Civil, and touch me no more, or I'm reſolv'd I'll call out, and expoſe ye.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Well, well, I will be patient, I will, I will. But as long as I did not touch thee about the Middle, as the Song ſays, what needs all this Coyneſs? And now I think on't, ſhall I ſing an old Catch to thee, Sweet-heart?</p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>Any thing to keep ye more Tame.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Come on then.— And the Theme ſhall be a touch about the Middle,— ah Rogue.
+<stage>Frisks about.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cordelia.</speaker>
+                  <p>Come, come, begin.</p>
+               </sp>
+               <pb n="16" facs="tcp:60794:10"/>
+               <stage>Alderman Sings.</stage>
+               <lg type="song">
+                  <l>
+                     <hi>THe Old Man he Peep'd through the Barn-door,</hi>
+                  </l>
+                  <l>
+                     <hi>As he was walking along,</hi>
+                  </l>
+                  <l>
+                     <hi>And there he ſpi'd four Legs on the Floor,</hi>
+                  </l>
+                  <l>
+                     <hi>And his Wifes two Legs among.</hi>
+                  </l>
+               </lg>
+               <lg n="2" type="song">
+                  <head>2.</head>
+                  <l>
+                     <hi>Ho, ho, quoth he, ſince I do perceive,</hi>
+                  </l>
+                  <l>
+                     <hi>You Dance without a Fiddle:</hi>
+                  </l>
+                  <l>
+                     <hi>I pray what e're you do with her Legs,</hi>
+                  </l>
+                  <l>
+                     <hi>To let her alone in the Middle, the Middle.</hi>
+                  </l>
+                  <l>
+                     <hi>To let her alone in the Middle.</hi>
+                  </l>
+               </lg>
+               <stage>
+                  <hi>Enter</hi> Booby.</stage>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>How now, Sirrah, how dare you intrude without Coughing or Hemming firſt, ha? Han't I told you of that?</p>
+               </sp>
+               <sp>
+                  <speaker>Booby.</speaker>
+                  <p>Hem, hem, I come to tell ye that Supper is ready, Sir: and the Fidlers have juſt rozin'd their Throats and their Guts; and are preparing to ſtrike up, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Alderm.</speaker>
+                  <p>Let 'em ſtrike up then, and bid my Servants give us the Dance we had laſt <hi>Chriſtmas.</hi>
+                  </p>
+                  <stage>Dance here.</stage>
+                  <p>So, ſo, very well, come Sweet-heart, now to Supper. And after I have warm'd my Blood with another Bot<g ref="char:EOLhyphen"/>tle, it ſhall go hard but I'll have a Bout with her before-hand, 'ifaith.</p>
+                  <stage>Exit Alderman leading Cordelia.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Rover, Wilding, <hi>and</hi> Julia.</stage>
+               <sp>
+                  <speaker>Rover.</speaker>
+                  <p>You ſhall be Guelt before that happens, ſweet Alderman, 'ifaith. <hi>Wilding,</hi> go you and inform the
+<pb n="17" facs="tcp:60794:10"/>Neighbours of the Buſineſs, and get a Conſtable rea<g ref="char:EOLhyphen"/>dy, we'll hamper this old Whipſter.</p>
+                  <lg>
+                     <l>And prove by this, in ſpite of his Complaint,</l>
+                     <l>No Whoremaſter is like your Whiggiſh Saint.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="3" type="act">
+               <head>ACT III. SCENE I.</head>
+               <div n="1" type="scene">
+                  <stage>
+                     <hi>Enter</hi> Booby.</stage>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>I Have made the Coachman ſo Drunk yon<g ref="char:EOLhyphen"/>der, that he miſtakes his Coach-boot for his Coach-box, ſo that he can diſcover nothing of my Deſign, I'm ſure. And now the time is coming, when I ſhall prove my ſelf to be no Booby nor Fool to the Alderman, but Mr. <hi>Lovewel,</hi> a Gentleman, and got into his Service for the Love I bear his Daugh<g ref="char:EOLhyphen"/>ter. 'Tis a ſtrange Old Fellow.— He has Drag'd and Drawn the Lady ſo about the Room yonder, that he wants nothing but Hanging and Quartering her, to make a meer Traytor of her. 'Tis well ſhe's made of Country Mould, i'faith; if ſhe had been of the Town Pocky Stuff, a Leg or an Arm had been loſt in the Service long before this. And yonder they are all watching him, with a deſign to ſurprize him at it. Well, if he chance to want my help, he ſhall pay for't, i'faith, and then we may chance to find a Trick for their Trick, but there muſt be Money in the Caſe; for I have no Wit without Money, nor ever had in my Life. Here he comes, I'll ſlink behind the Door, and obſerve.</p>
+                  </sp>
+                  <pb n="18" facs="tcp:60794:11"/>
+                  <stage>
+                     <hi>Enter</hi> Cordelia <hi>followed by the</hi> Alderman.</stage>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Such a Rudeneſs as this, ought to be Pun<g ref="char:EOLhyphen"/>iſh'd with more than common Severity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Prithee deer Pug, don't talk of Severity, but let me Kiſs thee; I muſt Kiſs thee faith, never ſtir I Muſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Boody.</speaker>
+                     <p>You'l ſtink for your ſtirring, I find that, pre<g ref="char:EOLhyphen"/>ſently.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>If there be Law, or Honour, or Juſtice in the Nation, I'll be Reveng'd; you ſhall know what I am, and what Friends a Woman of my Quality can find to do her Reaſon. Marry come up, muſt I be oblig'd to hear your fulſome Folly, your ſtale naſty bawdy Jokes, ſtoln from the Witleſs Drolls in <hi>Bar<g ref="char:EOLhyphen"/>tholomew Fair?</hi> Muſt I be your Property, d'ye intend me for your Scotch-warming-Pan, you old Fornica<g ref="char:EOLhyphen"/>tor you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>She opens well, i'faith, ſhe's a ſure Hound, I warrant her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>How ſharp the Rogue is, when ſhe would pretend to be Angry: But I know this is but a Copy of her Countenance, I am not to be Fob'd off ſo, i'faith. Therefore
+<q>
+                           <l>Come to my Bed, my Dear, my Dear,</l>
+                           <l>Come to my Bed, my Dear;</l>
+                           <l>To Marry is a Cheat, and we can do the Feat,</l>
+                           <l>As well as if we were, we were,</l>
+                           <l>As well as if we were.</l>
+                        </q>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Then your deſign was to make a Whore of me, was it ſo, Grandſir Grey-beard?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>A Whore! Oh, fie, fie, that's a paw word. No, no, a Miſs, or ſo, if thou would'ſt, my Dear.
+<pb n="19" facs="tcp:60794:11"/>Oons, why ſhould not I keep a Miſs as well as e're a young long-back'd Fop in the Town, I'm ſure I am as well able?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Ye lye, Maſter, ye lye, you are too weak in the Back; beſides there are things wanting, Age has made a meer Capon of ye.</p>
+                  </sp>
+                  <stage>aſide.</stage>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Thou keep a Miſs! What wouldſt thou do with her, or with any Woman elſe? Unleſs 'twere to buckle her Shooes, hold her Gloves, or Uſher her to Guild-hall on a Lord-Mayors Day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Yes, I could pay her Family Duties, Sweet<g ref="char:EOLhyphen"/>heart.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>There you lye agen, Maſter, that you could not to my knowledg.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Duty.— The beſt Duty thou couldſt pay, were to hold the Door for ſome abler young Fellow, that would take pity on her. 'dsDeath, you feeble, fulſome, fribling Fumbler, let me go, or I'll force my way; I'll be at thee by this Light.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>What, thou wilt not Rogue, thou art not in Earneſt: Thou canſt not Fight, canſt thou? If thou wilt Jerk me a little, with all my heart, faith; and I'll go fetch Rods, I keep 'em ready in the Houſe up<g ref="char:EOLhyphen"/>on all occaſions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Nay, I'll Flaug your Worſhip, if you come near me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>'Odsheart, ſhe'll be too hard for him, I ſee by her. Now who ſhall we get to be the 'tother Se<g ref="char:EOLhyphen"/>cond, for I am reſolv'd to make one?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>But prithee, let's leave off Fighting, and fall to Loving agen. I Die, I Languiſh for thee, I am Sick, Love-ſick, Sick to the quick; if thou wilt not believe me, I'll ſhew thee my— 'Odſings, it was juſt coming out.</p>
+                  </sp>
+                  <pb n="20" facs="tcp:60794:12"/>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Impudent Satyr, ſtand off.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Nay faith, 'tis impoſſible, I muſt Rumble, and Tumble, and Jumbl, if you will not conſent by fair means; I am reſolv'd to Raviſh, and there's an end on't.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Nay then, Help, help,— Murder,</p>
+                     <stage>Takes hold on her</stage>
+                     <p>Rape, Murder, help, help,—</p>
+                  </sp>
+                  <stage>Rover and Wilding within.</stage>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>Break open the Doors there, 'tis my Siſters voice; I'll have the Doors open.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Oh, I expected this! 'Odsheart, how Mr. Alderman looks now?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Oh, thanks to Providence, 'tis my Brother's voice. Now, Goat, Stallion, you ſhall find what 'tis to abuſe a Woman of my Quality.</p>
+                     <stage>Exit Cordel.</stage>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Booby.</stage>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh <hi>Booby!</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Oh, Maſter, what have you done?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, <hi>Booby,</hi> I am Ruin'd, Undone, Diſ<g ref="char:EOLhyphen"/>grac'd for ever; I have got</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>The Pox, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Ah, worſe, worſe, Eternal Shame, perpe<g ref="char:EOLhyphen"/>tual Ignominy; I ſhall be a By-word to the World, and hooted out of the Exchange.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Why you han't Raviſh'd her, I dare ſwear, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>No, I have not Raviſh'd her, 'tis true, but I would have don't if I could, <hi>Booby;</hi> I was juſt upon the Buſineſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Why, faith, and to be juſt upon the Buſi<g ref="char:EOLhyphen"/>neſs, and yet come off again ſo ſoon, ſhows great con<g ref="char:EOLhyphen"/>ſtancy of Mind, Maſter.</p>
+                  </sp>
+                  <pb n="21" facs="tcp:60794:12"/>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Ah, there's a damn'd Apothecary, my Neighbour, a jeering Rogue, that if ever he ſhould come to know it, I were no Man of this World; I ſhould be t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iz'd to Death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>You muſt get him Poyſon'd with one of his own Drugs, I think, Maſter.</p>
+                  </sp>
+                  <stage>Rover and Wilding within.</stage>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>Where is this Abominable Villain, this Goat, this Raviſher? Break open all the Doors there; I'll cut him in pieces, if there were no more Men alive.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, what ſhall I do!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>They are coming up Stairs. Come, Sir, what will you give me to free you from this trouble now?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, any thing, dear <hi>Booby,</hi> here are a hun<g ref="char:EOLhyphen"/>dred Guineys in this Purſe, I give 'em thee with all my heart, and any thing elſe that thou wilt demand, ſet me but clear of that Tarmagant Roaring Raſcal.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Come ſet your Hand to't, here's a Note drawn up for that purpoſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alder.</speaker>
+                     <p>I with all my Heart.</p>
+                     <stage>Writes.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>So, ſo, now get ye into that Cheſt there.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alder.</speaker>
+                     <p>That Cheſt, <hi>Booby.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Ay, ay, quick, quick, leave the reſt to me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Ah, dear <hi>Booby,</hi> I am bound to thee for ever.</p>
+                     <stage>Alderman gets into the Cheſt.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Now will I ſwear to them, that I ſaw him get out of a Window upon the Leads to the next Houſe, which they believing me their Friend, will doubtleſs give credit to.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wilding.</speaker>
+                     <p>The next Room open that, the Raſcal has hid himſelf there.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Indeed, Gentlemen, here's no one here but my ſelf; the Alderman is got out of the Window to the other ſide of the Houſe.</p>
+                     <stage>Exit Booby.</stage>
+                  </sp>
+                  <pb n="22" facs="tcp:60794:13"/>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, dear <hi>Booby,</hi> well, never Man had ſuch a Servant.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Beatrice.</stage>
+                  <sp>
+                     <speaker>Beatrice.</speaker>
+                     <p>Ah, have I caught ye, Mr. <hi>Booby,</hi> 'ifaith. This Rogue turns Cat in Pan, and has hid my Father there in the Cheſt, and now for the ſake of Money, intends to put a Trick upon us; 'twas well I had the Curioſity of Peeping, for I'll go and diſcover all his Roguery immediately.</p>
+                     <stage>Exit.</stage>
+                     <stage>Booby <hi>meets her.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>'Odsheart, who is this I ſee? Mrs. <hi>Beatrice.</hi> Nay then the cunning Gipſie has diſcovered all, I'm ſure. Come turn out, Sir, quickly turn out, I muſt have a Counterplot inſtantly, or all's Ruin'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>What's the matter <hi>Booby?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Come out, come out, quick, quick.</p>
+                     <stage>Alderman comes out of the Cheſt.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, I fancy they have got the Tokens of my Manhood in a Cleft Stick already.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Come, ſtrip, ſtrip, change Clothes and Hats with me preſently,— I'll fit them with a Plot, 'ifaith.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, heavenly <hi>Booby!</hi>
+                     </p>
+                  </sp>
+                  <stage>Here they change Clothes.</stage>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>So, now as you take my place, I'll take yours, and let 'em come in when they pleaſe.</p>
+                     <stage>Booby gets into the Cheſt.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Moſt incomparable <hi>Booby!</hi> 'Odſnigs, I be<g ref="char:EOLhyphen"/>gin to be a little in Heart.— This was a rare Inven<g ref="char:EOLhyphen"/>tion of the Rogue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>There, there, thoſe Stairs on the Right<g ref="char:EOLhyphen"/>hand.</p>
+                     <stage>Booby <hi>Peeping out of the Cheſt.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>I tell ye, ye are miſtaken, the Alderman is gone.</p>
+                  </sp>
+                  <pb n="23" facs="tcp:60794:13"/>
+                  <stage>
+                     <hi>Enter</hi> Rover, Wilding, Cordelia, Julia, <hi>and</hi> Beatrice.</stage>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>Ye lying Raſcal, we have diſcovered your Villany, Sirrah, and will reward ye; in the mean time take that and that.</p>
+                     <stage>Beats the Alderman, miſtaking him for Booby.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Ah, with all my heart, and ſo farewel t'ye. Oh rare <hi>Booby.</hi>
+                     </p>
+                     <stage>Exit Alderm.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Wilding.</speaker>
+                     <p>There, there's the Cheſt, let's ſee what's in it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Julia.</speaker>
+                     <p>A huge bundle of Iniquity, no doubt on't.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Hang him filthy Brute, he is too bad to live; come pull him out Brother, that I may be Re<g ref="char:EOLhyphen"/>veng'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>Oh, are you here, Sir?</p>
+                     <stage>Opening the Cheſt.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Yes, Sir, I am here, Sir.</p>
+                     <stage>Starting up.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Omnes.</speaker>
+                     <p>How, <hi>Booby!</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Ay, ay, the very ſame, I am <hi>Booby,</hi> Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wilding.</speaker>
+                     <p>And dreſs'd like the Alderman, theſe are Wonders: Who's that went out then?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Oh, 'twas the Devil, Gentlemen, he has been Tormenting me this three Hours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>If it was the Devil, 'twas a ſtrange fat bulky Devil; I am ſure he had Subſtance enough, as my Cudgel here can witneſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Madam, I heartily beg your pardon for my Rudeneſs to ye; alas, I was Poſſeſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Why was it you then all the while?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Me, me, only me: I have been Tempted this two days, to take the good Aldermans Habit to abuſe you,— by that Devil that went out juſt now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>How came he by your Livery on?</p>
+                  </sp>
+                  <pb n="24" facs="tcp:60794:14"/>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Ay, 'tis a thieving Devil, he has ſome Fro<g ref="char:EOLhyphen"/>lick to play in it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Julia.</speaker>
+                     <p>Nay, the Devil has ſtrange Tricks with him now and then, that's the truth on't.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>Come, come, let's go down and Examine this Buſineſs more narrowly; for howe'r you took this Shape to affront my Siſter, to day; I'm ſure, the Ranck Alderman was in his own Shape Yeſterday.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Piſh, this muſt be a Lye: Will this Fellow make me believe, that the Devil could Eat and Drink with me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Beatrice.</speaker>
+                     <p>How ſhould the Devil get into our Houſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wilding.</speaker>
+                     <p>Come, come, we ſhall find out the Lye immediately, and ſo come along Friend.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Ay, with all my heart: And if you find it to be a Lye,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>What then:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Why you have it as cheap as I, and ſo take it among ye.</p>
+                     <stage>Exeunt.</stage>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <pb n="25" facs="tcp:60794:14"/>
+                  <head>SCENE. II.</head>
+                  <stage>
+                     <hi>Enter</hi> Alderman.</stage>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>WAs there ever till this Moment, any Alderman of the City in ſuch a Garb? Truly, I believe not ſince the Conqueſt. I have known many a Fool in the Habit of an Alderman, but never till now, an Alderman in the Habit of a Fool. Well <hi>Timothy Thrum,</hi> keep thy Shame to thy ſelf if thou art wiſe; now would I fain know how <hi>Booby</hi> gets out of his Tribulation. 'Tis a witty Rogue, and no doubt was deſign'd for a Whig by his admira<g ref="char:EOLhyphen"/>ble Cunning.— But ſtay, who have we here?</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> La Bounce.</stage>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>Oh, Monſieur Raſcale, have a me catch you, and vidout your Quarter-ſtaff? Dat is ver' well now, me vull be revenge and cut your Troat, you Rogue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, Lord, what ſhall I do? He takes me for <hi>Booby,</hi> and will Murder me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>Zoon, you Dog, how dare you affront a Souldier, and a Gentleman hoh?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, Lord, I ne're affronted ye, Sir, not I.</p>
+                  </sp>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>You lye like Son of Whore, and for dat me will Gueld a you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, what does he, will Gueld me!</p>
+                  </sp>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>You ſhall not have one Stone to tro at a de Dog, nor Arm, nor Leg to ſtand upon, you Pol<g ref="char:EOLhyphen"/>troon.</p>
+                  </sp>
+                  <pb n="26" facs="tcp:60794:15"/>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Indeed, noble Sir, you miſtake me, I am not the Perſon you take me for; I am a very honeſt Fellow, Sir, and your Worſhips moſt humble Servant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>Ah, wheedling Rogue, but dis ſhall not ſerve your turn: Remember the Quarter-ſtaff, Rogue, remember dat, and dere is for you, and dere, and dere.</p>
+                     <stage>Beats him.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>O Lord, I ſhall be Murdered. Pray, Sir, hold, and believe me, indeed I am not the Perſon you take me for.</p>
+                  </sp>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>Not de Perſon, vat a Diable are you den? Come along vid me to de Aldermans Houſe, me fall ſoon know de truth of dat; Come, come along.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, by no means, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>Oh, by all means, Sir, you may be do Rogue that run away and Rob him, I muſt know dat: Along, along, Troop, troop.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, what ſhall I do, this is worſe then all.— If he brings me thither, I ſhall be diſcovered and diſ<g ref="char:EOLhyphen"/>grac'd for ever.</p>
+                  </sp>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>Oh, dam Rogue, vat you make face at, hah? Morblieu, dis muſt a be ſome Raſcal Teef dat have ſtola ſomething.— Come along, along.</p>
+                     <stage>La Bounce <hi>pulls him out.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>Oh, what ſhall I do, my Name will be a By-word to the Brethren, and my Reputation like a dead Dog, will ſtink above Ground.</p>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <pb n="27" facs="tcp:60794:15"/>
+                  <head>SCENE. III.</head>
+                  <stage>
+                     <hi>Enter</hi> Rover, Wilding, Cordelia, Julia, Beatrice <hi>with</hi> Booby.</stage>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>I Told you this lying Villain only put a Trick upon us, and on my Conſcience, has not told us one word of truth in the whole Story.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Julia.</speaker>
+                     <p>Nay, the Rogue has a lying, leering, fleer<g ref="char:EOLhyphen"/>ing Dog-face. Sirrah, I ſhall ſee that Face of yours upon the Gate-houſe one time or other, fronting Sir <hi>Thomas.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>I believe, forſooth, you would rather de<g ref="char:EOLhyphen"/>ſire to ſee my Buttock there, if the truth were known.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wilding.</speaker>
+                     <p>Any Limb would ſerve.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>Ay, ay, any will ſerve, and one of 'em muſt come there, or elſe the Features of his Face are damn'd Lyers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>I had rather you were all Hang'd there, I deal plainly with ye.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> La Bounce <hi>and</hi> Alderman.</stage>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>Vere, vere is dis Alderman, me have brought a dam Rogue Raſcalle, dat me believe have Rob him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>How's this, the Alderman in Diſguiſe, and brought back by Captain <hi>La Bounce;</hi> this was Luck 'ifaith.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wilding.</speaker>
+                     <p>Your Servant, good Mr. Alderman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>Your obedient Vaſſal, ſweet Mr. Alderman.</p>
+                  </sp>
+                  <pb n="28" facs="tcp:60794:16"/>
+                  <sp>
+                     <speaker>Julia.</speaker>
+                     <p>Your moſt Devoted, good Alderman Ram<g ref="char:EOLhyphen"/>pant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>Zoon, is dis the Alderman himſelf? Vat a rare Plot is dis now? Me vul have his Daugh<g ref="char:EOLhyphen"/>ter, or me vul ſwear Fellony and Robbery againſt him Jeime.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Jeime, if you ſwear your ſelf to the Gal<g ref="char:EOLhyphen"/>lows, you ſhall not have her.</p>
+                     <stage>Diſcovers himſelf.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>What, do I ſee my dear Friend <hi>Will Love<g ref="char:EOLhyphen"/>well?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>The ſame, Sir, and no more <hi>Booby</hi> now, Mr. Alderman. I have a Note of your Hand here, which ſhall be either for Ten Thouſand Pounds, or your Daughter.— You know my old Love to her, and ſhall now know I got into your Service for her ſake.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>I am Confounded, and know not what to ſay. Take me, tear me to pieces, do what you will with me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>No, no, we'll be more merciful than ſo: You ſhall only be Expos'd a little, and make Reparation for Affronts: You are Rich, Mr. Alderman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alderm.</speaker>
+                     <p>I ſhall have my Shame ſung in Ballads to ſcurvie Tunes, 'twill be News all over the <hi>Exchange</hi> by to Morrow at this time. Oh I will ſhut my ſelf up in my Counting-houſe, and never ſee the World agen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wilding.</speaker>
+                     <p>You will do the leſs Miſchief, my Rampant Senator; but now to our Buſineſs in this World. Ma<g ref="char:EOLhyphen"/>dam, this ſhould be an hour of Mirth and Joy faith; ſurprize me with your Hand now, and ſay you are Mine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cordelia.</speaker>
+                     <p>There, Sir. This may be the Critical Mi<g ref="char:EOLhyphen"/>nute for ought you know.</p>
+                     <stage>He kiſſes it.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>And what ſay you to me, pretty Mrs. Brisk.</p>
+                  </sp>
+                  <pb n="29" facs="tcp:60794:16"/>
+                  <sp>
+                     <speaker>Julia.</speaker>
+                     <p>Why, faith, there's mine too; hang't, I hate to ſtand out when any good Game is going forward.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Booby.</speaker>
+                     <p>Our Hands and Hearts are pair'd already.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Beatrice.</speaker>
+                     <p>I hope ſo, dear <hi>Lovewel,</hi> I'm ſure I have ſhed many a Tear ſince my Father forbid thee our Houſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>La Bounce.</speaker>
+                     <p>Vat a Diabla, muſt I have ne're a Me<g ref="char:EOLhyphen"/>treſſe den? Morblieu, me will fight vid every one of you. Take your Metreſſe away, and beget a Gene<g ref="char:EOLhyphen"/>ration of Souldiers dat ſhall ſcour the World, and de<g ref="char:EOLhyphen"/>fie the Devil and Fortune, and dat is the Reſolution of Captain <hi>La Bounce.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Rover.</speaker>
+                     <p>And ſo Bounce off good Captain, unleſs you will make one in a Dance; the Alderman has Fidles in the Houſe already, come ſtrike up.</p>
+                     <stage>Dance here.</stage>
+                  </sp>
+                  <lg>
+                     <l>This is at laſt our Alderman Diſgrac'd,</l>
+                     <l>And we have ſhown the Letchery barefac'd:</l>
+                     <l>Wenching in Hair-brain'd Youth's a ſhameful evil,</l>
+                     <l>But to be Old and Rampant, that's the Devil.</l>
+                     <l>For when Gray Hairs once freeze the Reverend Crown,</l>
+                     <l>Fancy may mount, but all things elſe go down.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
